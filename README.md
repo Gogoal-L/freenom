@@ -168,7 +168,7 @@ $ vim .env
 ```
 
 ### 🎈  添加计划任务
-#### 安装crontabs以及cronie
+### 安装crontabs以及cronie
 ```bash
 $ yum -y install cronie crontabs
 
